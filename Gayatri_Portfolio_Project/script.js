@@ -1,0 +1,1 @@
+document.querySelectorAll('.btn').forEach(b=>b.addEventListener('mouseover',()=>b.style.transform='scale(1.05)'));
